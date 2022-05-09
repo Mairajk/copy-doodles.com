@@ -1,0 +1,17 @@
+.navlist>ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.droplist{
+    display: none;
+}
+
+.drop:hover .droplist{
+    display: block;
+    position:absolute;
+  
+    
+
+}
